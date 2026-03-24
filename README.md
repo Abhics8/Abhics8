@@ -67,13 +67,4 @@ High-concurrency system with distributed Redis locks, Kafka exactly-once semanti
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhics8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhics8&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhics8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
