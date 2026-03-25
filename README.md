@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2496ED&center=true&vCenter=true&width=850&height=50&lines=I+build+high-concurrency+production+ML+systems.;Designing+end-to-end+MLOps+pipelines+at+scale.;Engineering+distributed+architectures+with+zero+race+conditions.;Optimizing+latency+from+180ms+down+to+12ms.;Turning+complex+AI+models+into+scalable+real-world+products." alt="Typing SVG" />
+</p>
+
+<p align="center">
   <em>I build production ML systems and high-concurrency backends — from real-time fraud detection at p95 &lt;50ms, to distributed ticket booking with zero race conditions under 5K concurrent users.</em>
 </p>
 
@@ -71,5 +75,18 @@ High-concurrency system with distributed Redis locks, Kafka exactly-once semanti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhics8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhics8/Abhics8/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhics8/Abhics8/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhics8/Abhics8/output/github-contribution-grid-snake.svg" width="800">
+  </picture>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhics8&label=Profile%20views&color=0e75b6&style=flat" alt="Abhics8" />
 </p>
 
