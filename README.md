@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2496ED&center=true&vCenter=true&width=850&height=50&lines=I+build+high-concurrency+production+ML+systems.;Designing+end-to-end+MLOps+pipelines+at+scale.;Engineering+distributed+architectures+with+zero+race+conditions.;Optimizing+latency+from+180ms+down+to+12ms.;Turning+complex+AI+models+into+scalable+real-world+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=2496ED&center=true&vCenter=true&width=800&height=70&lines=Machine+Learning+Engineer;Backend+%26+Distributed+Systems;Scaling+AI+to+Production;Building+High-Concurrency+APIs;MLOps+%26+Performance+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
