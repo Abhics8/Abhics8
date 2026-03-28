@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Featured AI & Distributed Systems
+## 🚀 Core Technical Projects
 
 <br>
 
