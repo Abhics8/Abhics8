@@ -138,17 +138,35 @@ I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and *
     <td width="33%" valign="top">
       <h4><a href="https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices">🚀 MLOps Best Practices</a></h4>
       <p>📅 <b>Feb 14, 2026</b> · ⏱️ 7 min</p>
-      <p>A comprehensive architectural deep dive into transitioning ML models from experimental Jupyter notebooks to highly concurrent, stable production endpoints using MLflow and FastAPI.</p>
+      <p>A comprehensive architectural deep dive into transitioning ML models from experimental Jupyter notebooks to highly concurrent, stable production endpoints.</p>
+      <p><b>Technical Highlights:</b></p>
+      <ul>
+        <li>Implementing <b>MLflow</b> registries for model versioning.</li>
+        <li>Zero-downtime rolling deployments via <b>FastAPI</b>.</li>
+        <li>Continuous monitoring & drift detection strategies.</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://zerotooneblog.hashnode.dev/real-time-data-processing-kafka-spark">⚡ Kafka & Spark Streams</a></h4>
       <p>📅 <b>Jan 28, 2026</b> · ⏱️ 5 min</p>
-      <p>Exploring event-driven distributed architectures, exactly-once processing semantics, consumer offsets, and handling backpressure in high-throughput streaming pipelines.</p>
+      <p>A hardcore exploration of event-driven distributed architectures, exactly-once processing semantics, and scalable fault tolerance.</p>
+      <p><b>Technical Highlights:</b></p>
+      <ul>
+        <li>Managing consumer offsets safely in <b>Kafka</b>.</li>
+        <li>Handling node backpressure in high-throughput pipes.</li>
+        <li>Achieving idempotent multi-partition stream writes.</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://zerotooneblog.hashnode.dev/deploying-llm-applications-rag-architecture">🧠 Deploying LLM RAG</a></h4>
       <p>📅 <b>Jan 10, 2026</b> · ⏱️ 8 min</p>
-      <p>A production-first approach to RAG infrastructure. Compares Qdrant vs Pinecone, details semantic chunking strategies, and mitigates hallucination cascades.</p>
+      <p>A production-first blueprint for scaling Retrieval-Augmented Generation infrastructure beyond simple prototypes to secure, deterministic endpoints.</p>
+      <p><b>Technical Highlights:</b></p>
+      <ul>
+        <li>Benchmarking <b>Qdrant</b> vs Pinecone vector indexing.</li>
+        <li>Deploying advanced semantic chunking strategies.</li>
+        <li>Architectural constraints to mitigate LLM hallucinations.</li>
+      </ul>
     </td>
   </tr>
 </table>
