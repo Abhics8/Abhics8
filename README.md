@@ -20,68 +20,75 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Case Studies
 
-### [Lumina-AI](https://github.com/Abhics8/Lumina-AI) — Visual Commerce Search Engine
-Multi-model ML pipeline (OWLv2 + SigLIP + Qwen-VL) with vector search over 100K+ products.
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-dc382c?style=flat)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<table bordercolor="#30363d">
+  <tr>
+    <td width="55%" valign="top">
+      <h3><a href="https://github.com/Abhics8/Lumina-AI">🛍️ Lumina-AI</a> — Visual Commerce Search Engine</h3>
+      <p>Multi-model ML pipeline (OWLv2 + SigLIP + Qwen-VL) with vector search over 100K+ products.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qdrant-dc382c?style=flat" />
+      </p>
+      <blockquote><p><b>45ms p95 search latency · 94.2% recall@10</b><br><a href="https://huggingface.co/spaces/Ab0202000/lumina-ai-demo">Live on HuggingFace Spaces →</a></p></blockquote>
+    </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/Lumina-AI">
+        <img src="https://github.com/Abhics8/Lumina-AI/raw/main/assets/demo-detect.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-> **45ms p95 search latency · 94.2% recall@10 · [Live on HuggingFace Spaces →](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo)**
+<table bordercolor="#30363d">
+  <tr>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/FraudGuard">
+        <img src="https://github.com/Abhics8/FraudGuard/raw/main/assets/fraudguard-dashboard.png" width="100%" />
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <h3><a href="https://github.com/Abhics8/FraudGuard">🛡️ FraudGuard</a> — MLOps Platform</h3>
+      <p>End-to-end MLOps pipeline: training → serving → monitoring → drift detection → explainability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+      </p>
+      <blockquote><p><b>0.982 AUC-ROC · 96.2% precision</b><br><a href="https://risklens-pkut6xkwhua7dmugegejum.streamlit.app">Live Demo →</a></p></blockquote>
+    </td>
+  </tr>
+</table>
 
-### 🔍 Lumina-AI in Action
-<p align="center">
-  <a href="https://github.com/Abhics8/Lumina-AI">
-    <img src="https://github.com/Abhics8/Lumina-AI/raw/main/assets/demo-detect.png" width="800" />
-  </a>
-</p>
-
----
-
-### [FraudGuard](https://github.com/Abhics8/FraudGuard) — MLOps Fraud Detection Platform
-End-to-end MLOps: training → serving → monitoring → drift detection → explainability.
-
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-> **0.982 AUC-ROC · 96.2% precision · Full observability stack · [Live Demo →](https://risklens-pkut6xkwhua7dmugegejum.streamlit.app)**
-
-### 🔍 FraudGuard in Action
-<p align="center">
-  <a href="https://github.com/Abhics8/FraudGuard">
-    <img src="https://github.com/Abhics8/FraudGuard/raw/main/assets/fraudguard-dashboard.png" width="800" />
-  </a>
-</p>
-
----
-
-### [Ticket-Blitz](https://github.com/Abhics8/Ticket-Blitz) — Distributed Ticket Booking System
-High-concurrency system with distributed Redis locks, Kafka exactly-once semantics, and PostgreSQL row-level locking.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-> **99.69% success rate at 50K requests · p95 124ms · Zero race conditions**
-
-### 🔍 Ticket-Blitz in Action
-<p align="center">
-  <a href="https://github.com/Abhics8/Ticket-Blitz">
-    <img src="https://github.com/Abhics8/Ticket-Blitz/raw/main/assets/ticketblitz-dashboard.png" width="800" />
-  </a>
-</p>
+<table bordercolor="#30363d">
+  <tr>
+    <td width="55%" valign="top">
+      <h3><a href="https://github.com/Abhics8/Ticket-Blitz">🎟️ Ticket-Blitz</a> — Distributed Backend</h3>
+      <p>High-concurrency platform with distributed Redis locks, Kafka exactly-once semantics, and PostgreSQL row-level locking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+      <blockquote><p><b>99.69% success rate at 50K requests</b><br>p95 124ms · Zero race conditions</p></blockquote>
+    </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/Ticket-Blitz">
+        <img src="https://github.com/Abhics8/Ticket-Blitz/raw/main/assets/ticketblitz-dashboard.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
