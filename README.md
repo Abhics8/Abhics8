@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Qdrant-dc382c?style=flat" />
       </p>
-      <blockquote><p><b>45ms p95 search latency · 94.2% recall@10</b><br><a href="https://huggingface.co/spaces/Ab0202000/lumina-ai-demo">Live on HuggingFace Spaces →</a></p></blockquote>
+      <blockquote><p><b>🔍 Full-Stack Multi-Modal Search</b><br><a href="https://huggingface.co/spaces/Ab0202000/lumina-ai-demo">Live on HuggingFace Spaces →</a></p></blockquote>
     </td>
     <td width="45%" valign="top">
       <br>
@@ -57,7 +57,7 @@
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
       </p>
-      <blockquote><p><b>0.982 AUC-ROC · 96.2% precision</b><br><a href="https://risklens-pkut6xkwhua7dmugegejum.streamlit.app">Live Demo →</a></p></blockquote>
+      <blockquote><p><b>🛡️ Real-Time Inference & Explainability</b><br><a href="https://risklens-pkut6xkwhua7dmugegejum.streamlit.app">Live Demo →</a></p></blockquote>
     </td>
     <td width="45%" valign="top">
       <br>
@@ -79,7 +79,7 @@
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <blockquote><p><b>99.69% success rate at 50K requests</b><br>p95 124ms · Zero race conditions</p></blockquote>
+      <blockquote><p><b>🎟️ Strict Concurrency Control</b><br>Handled concurrent booking simulations with zero race conditions.</p></blockquote>
     </td>
     <td width="45%" valign="top">
       <br>
