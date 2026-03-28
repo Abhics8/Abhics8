@@ -55,6 +55,13 @@ End-to-end MLOps: training → serving → monitoring → drift detection → ex
 
 > **0.982 AUC-ROC · 96.2% precision · Full observability stack · [Live Demo →](https://risklens-pkut6xkwhua7dmugegejum.streamlit.app)**
 
+### 🔍 FraudGuard in Action
+<p align="center">
+  <a href="https://github.com/Abhics8/FraudGuard">
+    <img src="https://github.com/Abhics8/FraudGuard/raw/main/assets/fraudguard-dashboard.png" width="800" />
+  </a>
+</p>
+
 ---
 
 ### [Ticket-Blitz](https://github.com/Abhics8/Ticket-Blitz) — Distributed Ticket Booking System
@@ -68,6 +75,13 @@ High-concurrency system with distributed Redis locks, Kafka exactly-once semanti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 > **99.69% success rate at 50K requests · p95 124ms · Zero race conditions**
+
+### 🔍 Ticket-Blitz in Action
+<p align="center">
+  <a href="https://github.com/Abhics8/Ticket-Blitz">
+    <img src="https://github.com/Abhics8/Ticket-Blitz/raw/main/assets/ticketblitz-dashboard.png" width="800" />
+  </a>
+</p>
 
 ---
 
