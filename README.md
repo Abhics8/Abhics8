@@ -136,5 +136,5 @@ I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and *
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhics8/Abhics8/main/github-metrics.svg" alt="GitHub Metrics Dashboard" onerror="this.style.display='none'"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics Dashboard" />
 </p>
