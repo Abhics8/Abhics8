@@ -28,7 +28,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/Lumina-AI">🛍️ Lumina-AI</a> — Visual Commerce Search Engine</h3>
-      <p>Multi-model ML pipeline (OWLv2 + SigLIP + Qwen-VL) with vector search over 100K+ products.</p>
+      <p>Multi-model ML pipeline (OWLv2 + SigLIP + Qwen-VL) with vector search over 100K+ products. Designed a two-stage retrieval architecture to guarantee sub-50ms latency. Implemented a custom Gradio inference pipeline hosted on Hugging Face Spaces for live demonstration.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
@@ -50,7 +50,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/FraudGuard">🛡️ FraudGuard</a> — MLOps Platform</h3>
-      <p>End-to-end MLOps pipeline: training → serving → monitoring → drift detection → explainability.</p>
+      <p>End-to-end MLOps pipeline: training → serving → monitoring → drift detection → explainability. Engineered a robust feature pipeline capable of processing transactions in under 50ms. Integrated SHAP explainability to provide deep insights into XGBoost decision boundaries.</p>
       <p>
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat" />
         <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
@@ -72,7 +72,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/Ticket-Blitz">🎟️ Ticket-Blitz</a> — Distributed Backend</h3>
-      <p>High-concurrency platform with distributed Redis locks, Kafka exactly-once semantics, and PostgreSQL row-level locking.</p>
+      <p>High-concurrency platform with distributed Redis locks, Kafka exactly-once semantics, and PostgreSQL row-level locking. Engineered a resilient booking state machine using Redis Lua scripts for atomic locks. Integrated OpenTelemetry for distributed tracing across Express, KafkaJS, and PostgreSQL.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
@@ -89,6 +89,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+## ✍️ Engineering Blog
+
+I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and **Distributed Systems** on my Hashnode blog, [Zero to One](https://zerotooneblog.hashnode.dev).
+
+* 🚀 **[Building Production ML Systems: MLOps Best Practices](https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices)**
+* ⚡ **[Real-Time Data Processing with Kafka and Spark](https://zerotooneblog.hashnode.dev/real-time-data-processing-kafka-spark)**
+* 🧠 **[Deploying LLM Applications: RAG Architecture Guide](https://zerotooneblog.hashnode.dev/deploying-llm-applications-rag-architecture)**
+
+<br>
+
+[![Read more on Hashnode](https://img.shields.io/badge/Read_More_on_Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://zerotooneblog.hashnode.dev)
 
 ---
 
