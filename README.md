@@ -139,11 +139,7 @@ I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and *
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhics8/Abhics8/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhics8/Abhics8/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhics8/Abhics8/output/github-contribution-grid-snake.svg" width="800">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhics8&theme=tokyonight&hide_border=true&area=true" width="800" alt="GitHub Activity Graph" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhics8&label=Profile%20views&color=0e75b6&style=flat" alt="Abhics8" />
