@@ -24,7 +24,7 @@
 
 <br>
 
-<table bordercolor="#30363d">
+<table width="100%" bordercolor="#30363d">
   <tr>
     <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/Lumina-AI">🛍️ Lumina-AI</a> — Visual Commerce Search Engine</h3>
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-<table bordercolor="#30363d">
+<table width="100%" bordercolor="#30363d">
   <tr>
     <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/FraudGuard">🛡️ FraudGuard</a> — MLOps Platform</h3>
@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-<table bordercolor="#30363d">
+<table width="100%" bordercolor="#30363d">
   <tr>
     <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/Ticket-Blitz">🎟️ Ticket-Blitz</a> — Distributed Backend</h3>
@@ -94,7 +94,7 @@
 
 ## 🛠️ Tech Stack
 
-<table bordercolor="#30363d">
+<table width="100%" bordercolor="#30363d">
   <tr>
     <td width="20%" valign="middle"><h4>💻 Languages</h4></td>
     <td width="80%" valign="middle">
@@ -133,7 +133,7 @@
 
 I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and **Distributed Systems** on my Hashnode blog, [Zero to One](https://zerotooneblog.hashnode.dev).
 
-<table bordercolor="#30363d">
+<table width="100%" bordercolor="#30363d">
   <tr>
     <td width="33%" valign="top">
       <h4><a href="https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices">🚀 MLOps Best Practices</a></h4>
