@@ -139,7 +139,9 @@ I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and *
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhics8&theme=tokyonight&hide_border=true&area=true" width="800" alt="GitHub Activity Graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhics8&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhics8&label=Profile%20views&color=0e75b6&style=flat" alt="Abhics8" />
