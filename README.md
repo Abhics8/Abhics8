@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Featured Engineering Case Studies
+## 🚀 Featured AI & Distributed Systems
 
 <br>
 
@@ -92,13 +92,16 @@
 
 ---
 
-## ✍️ Engineering Blog
+## ✍️ Thoughts on ML & System Architecture
 
 I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and **Distributed Systems** on my Hashnode blog, [Zero to One](https://zerotooneblog.hashnode.dev).
 
-* 🚀 **[Building Production ML Systems: MLOps Best Practices](https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices)**
-* ⚡ **[Real-Time Data Processing with Kafka and Spark](https://zerotooneblog.hashnode.dev/real-time-data-processing-kafka-spark)**
-* 🧠 **[Deploying LLM Applications: RAG Architecture Guide](https://zerotooneblog.hashnode.dev/deploying-llm-applications-rag-architecture)**
+* 🚀 **[Building Production ML Systems: MLOps Best Practices](https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices)**  
+  *A deep dive into transitioning models from Jupyter notebooks to stable, monitored production endpoints using MLflow and FastAPI.*
+* ⚡ **[Real-Time Data Processing with Kafka and Spark](https://zerotooneblog.hashnode.dev/real-time-data-processing-kafka-spark)**  
+  *Exploring event-driven architectures and exactly-once processing semantics for high-throughput streaming pipelines.*
+* 🧠 **[Deploying LLM Applications: RAG Architecture Guide](https://zerotooneblog.hashnode.dev/deploying-llm-applications-rag-architecture)**  
+  *Breaking down Retrieval-Augmented Generation infrastructure, from vector store selection to embedding optimizations.*
 
 <br>
 
