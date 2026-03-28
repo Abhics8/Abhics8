@@ -14,6 +14,10 @@
   <em>I build production ML systems and high-concurrency backends — from real-time fraud detection at p95 &lt;50ms, to distributed ticket booking with zero race conditions under 5K concurrent users.</em>
 </p>
 
+<p align="center">
+  🎯 **Graduating May 2026 · Open to ML Engineer & SDE roles · Authorized to work in the USA**
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -29,6 +33,13 @@ Multi-model ML pipeline (OWLv2 + SigLIP + Qwen-VL) with vector search over 100K+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 > **45ms p95 search latency · 94.2% recall@10 · [Live on HuggingFace Spaces →](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo)**
+
+### 🔍 Lumina-AI in Action
+<p align="center">
+  <a href="https://github.com/Abhics8/Lumina-AI">
+    <img src="https://github.com/Abhics8/Lumina-AI/raw/main/assets/demo-detect.png" width="800" />
+  </a>
+</p>
 
 ---
 
