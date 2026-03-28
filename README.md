@@ -75,6 +75,7 @@ High-concurrency system with distributed Redis locks, Kafka exactly-once semanti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhics8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhics8&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
