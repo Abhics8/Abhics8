@@ -136,16 +136,5 @@ I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and *
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhics8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhics8&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/Abhics8/Abhics8/main/github-metrics.svg" alt="GitHub Metrics Dashboard" onerror="this.style.display='none'"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhics8/Abhics8/main/profile-3d-contrib/profile-night-view.svg" width="800" alt="3D GitHub Contributions" onerror="this.style.display='none'"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhics8&label=Profile%20views&color=0e75b6&style=flat" alt="Abhics8" />
-</p>
-
