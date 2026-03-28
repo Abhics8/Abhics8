@@ -48,12 +48,6 @@
 
 <table bordercolor="#30363d">
   <tr>
-    <td width="45%" valign="top">
-      <br>
-      <a href="https://github.com/Abhics8/FraudGuard">
-        <img src="https://github.com/Abhics8/FraudGuard/raw/main/assets/fraudguard-dashboard.png" width="100%" />
-      </a>
-    </td>
     <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/FraudGuard">🛡️ FraudGuard</a> — MLOps Platform</h3>
       <p>End-to-end MLOps pipeline: training → serving → monitoring → drift detection → explainability.</p>
@@ -64,6 +58,12 @@
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
       </p>
       <blockquote><p><b>0.982 AUC-ROC · 96.2% precision</b><br><a href="https://risklens-pkut6xkwhua7dmugegejum.streamlit.app">Live Demo →</a></p></blockquote>
+    </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/FraudGuard">
+        <img src="https://github.com/Abhics8/FraudGuard/raw/main/assets/fraudguard-dashboard.png" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
