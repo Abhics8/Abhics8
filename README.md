@@ -96,12 +96,21 @@
 
 I regularly write technical deep-dives on **Machine Learning**, **MLOps**, and **Distributed Systems** on my Hashnode blog, [Zero to One](https://zerotooneblog.hashnode.dev).
 
-* 🚀 **[Building Production ML Systems: MLOps Best Practices](https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices)**  
-  *A deep dive into transitioning models from Jupyter notebooks to stable, monitored production endpoints using MLflow and FastAPI.*
-* ⚡ **[Real-Time Data Processing with Kafka and Spark](https://zerotooneblog.hashnode.dev/real-time-data-processing-kafka-spark)**  
-  *Exploring event-driven architectures and exactly-once processing semantics for high-throughput streaming pipelines.*
-* 🧠 **[Deploying LLM Applications: RAG Architecture Guide](https://zerotooneblog.hashnode.dev/deploying-llm-applications-rag-architecture)**  
-  *Breaking down Retrieval-Augmented Generation infrastructure, from vector store selection to embedding optimizations.*
+<div align="left">
+
+#### 🚀 [Building Production ML Systems: MLOps Best Practices](https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices)
+📅 **February 14, 2026** · ⏱️ *7 min read*
+> A comprehensive architectural deep dive into transitioning ML models from experimental Jupyter notebooks to highly concurrent, stable production endpoints. Covers MLflow model registries, FastAPI serving, and Prometheus observability integrations.
+
+#### ⚡ [Real-Time Data Processing with Kafka and Spark](https://zerotooneblog.hashnode.dev/real-time-data-processing-kafka-spark)
+📅 **January 28, 2026** · ⏱️ *5 min read*
+> Exploring the complexities of event-driven distributed architectures. Breaks down how to implement exactly-once processing semantics, manage consumer group offsets cleanly, and handle backpressure in high-throughput streaming pipelines.
+
+#### 🧠 [Deploying LLM Applications: RAG Architecture Guide](https://zerotooneblog.hashnode.dev/deploying-llm-applications-rag-architecture)
+📅 **January 10, 2026** · ⏱️ *8 min read*
+> A production-first approach to Retrieval-Augmented Generation infrastructure. Compares vector stores like Qdrant and Pinecone, details semantic chunking optimization strategies, and discusses mitigating hallucination cascades in production AI features.
+
+</div>
 
 <br>
 
