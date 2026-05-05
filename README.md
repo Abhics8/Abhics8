@@ -62,7 +62,7 @@
     <td width="45%" valign="top">
       <br>
       <a href="https://github.com/Abhics8/AgentForge">
-        <img src="https://github.com/Abhics8/Abhics8/raw/main/agentforge-dashboard.png" width="100%" />
+        <img src="https://github.com/Abhics8/Abhics8/raw/main/agentforge-cinematic.png" width="100%" />
       </a>
     </td>
   </tr>
