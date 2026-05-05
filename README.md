@@ -50,6 +50,27 @@
 <table width="100%" bordercolor="#30363d">
   <tr>
     <td width="55%" valign="top">
+      <h3><a href="https://github.com/Abhics8/AgentForge">🤖 AgentForge</a> — Deep RL Autonomous Control</h3>
+      <p>Built a Deep Q-Network (DQN) agent from scratch to autonomously master the CartPole-v1 environment. Engineered a comprehensive Streamlit dashboard for interactive live training, ablation studies, and baseline comparisons. Published a 9-page research paper detailing hyperparameter sensitivities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gymnasium-000000?style=flat" />
+      </p>
+      <blockquote><p><b>🕹️ Live Interactive Dashboard</b><br><a href="https://agentforge-abhi.streamlit.app">Try the agent live →</a></p></blockquote>
+    </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/AgentForge">
+        <img src="https://github.com/Abhics8/AgentForge/raw/main/results/plots/training_curve.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" bordercolor="#30363d">
+  <tr>
+    <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/FraudGuard">🛡️ FraudGuard</a> — MLOps Platform</h3>
       <p>End-to-end MLOps pipeline: training → serving → monitoring → drift detection → explainability. Engineered a robust feature pipeline capable of processing transactions in under 50ms. Integrated SHAP explainability to provide deep insights into XGBoost decision boundaries.</p>
       <p>
