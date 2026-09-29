@@ -16,16 +16,6 @@
   <em>I build ML systems and prove they work. Recent work: an ad ranker with trustworthy predictions, a study assistant with automated quality checks, and a booking system that never sells the same seat twice.</em>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhics8&theme=tokyonight" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Abhics8&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhics8&theme=tokyonight" height="170" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhics8&theme=tokyonight" height="170" alt="Top Languages by Commit" />
-</p>
-
 ---
 
 ## 🚀 Core Technical Projects
