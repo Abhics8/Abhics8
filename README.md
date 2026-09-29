@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=2496ED&center=true&vCenter=true&width=900&height=70&lines=AI+%26+ML+Engineer+%7C+Building+Intelligent+Systems" alt="AI &amp; ML Engineer | Building Intelligent Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1800&color=2496ED&center=true&vCenter=true&width=900&height=70&lines=AI+%26+ML+Engineer;Building+Intelligent+Systems;LLMs+%26+RAG+Architectures;PyTorch+%26+Deep+Learning;Production+MLOps+%26+Distributed+Systems" alt="AI &amp; ML Engineer | Building Intelligent Systems" />
 </p>
 
 <p align="center">
