@@ -19,6 +19,15 @@
   <em>I build production ML systems and high-concurrency backends — from real-time fraud detection at p95 &lt;50ms, to distributed ticket booking with zero race conditions proven by a k6 race test.</em>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhics8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhics8&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhics8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🚀 Core Technical Projects
