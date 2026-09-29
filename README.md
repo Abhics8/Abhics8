@@ -1,8 +1,5 @@
 <h1 align="center">Abhi Bhardwaj</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhics8&label=Profile%20Views&color=2496ED&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <p align="center">
   <a href="https://abhics8.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-1B2A4A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -16,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>I build production ML systems and high-concurrency backends — from real-time fraud detection at p95 &lt;50ms, to distributed ticket booking with zero race conditions proven by a k6 race test.</em>
+  <em>I build ML systems and prove they work. Recent work: an ad ranker with trustworthy predictions, a study assistant with automated quality checks, and a booking system that never sells the same seat twice.</em>
 </p>
 
 <p align="center">
